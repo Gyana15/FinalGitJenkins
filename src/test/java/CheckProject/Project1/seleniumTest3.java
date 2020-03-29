@@ -1,6 +1,5 @@
 package CheckProject.Project1;
 
-import org.testng.ISuiteListener;
 import org.testng.annotations.Test;
 
 public class seleniumTest3{
